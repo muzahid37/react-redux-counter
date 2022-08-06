@@ -14,10 +14,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `State`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1.create a react app 
+2. state count:0 
+3. create action 
+4. create reducer 
+5. install redux
+6. create store 
+7. install react-redux
+8.providing store on index.js page 
+9. use store 
 
 ### `npm run build`
 
